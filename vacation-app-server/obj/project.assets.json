@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\VacationApp\\VacationApp-Server\\VacationApp-Server.csproj",
-      "projectName": "VacationApp-Server",
-      "projectPath": "C:\\Users\\HP\\Desktop\\VacationApp\\VacationApp-Server\\VacationApp-Server.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\VacationApp\\vacation-app-server\\vacation-app-server.csproj",
+      "projectName": "vacation-app-server",
+      "projectPath": "C:\\Users\\HP\\Desktop\\VacationApp\\vacation-app-server\\vacation-app-server.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\VacationApp\\VacationApp-Server\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\VacationApp\\vacation-app-server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

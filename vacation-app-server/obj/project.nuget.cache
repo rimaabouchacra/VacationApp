@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GXMhZ4MV8V2jTcUmrxBPNUflOba8FXpK+Jk4OS5ql3T8MAhQpB4ATCiYcvXM2LdXG6lPZi26ZjRN7aDmtVXXvg==",
+  "dgSpecHash": "wO/cyHhJIIkjMNshMuNbz6AObFBRWcX52OYLEiEaz5XtW3FIXzROXORaysPKGiakkY90D2163BwQO6GG5D5wTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\VacationApp\\VacationApp-Server\\VacationApp-Server.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\VacationApp\\vacation-app-server\\vacation-app-server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
