@@ -1,5 +1,6 @@
 import React from 'react';
 import './index.css'
+import { useNavigate } from 'react-router-dom';
 const VacationTable = () => {
  const vacations = [
     {
@@ -21,8 +22,17 @@ const VacationTable = () => {
    
   ];
 
+ const navigate = useNavigate(); 
+ const handleAddVacation=()=>{
+    navigate('./addvacation')
+ }
 return (
     <div>
+    
+      <div className='add-vacation'>
+        <button onClick={handleAddVacation} className='all-btn'>add vacation</button>
+      </div>
+      
       <h1 className='vacation-title'>Vacation List</h1>
       <div className="vacation-table-container">
         <table className="vacation-table">
@@ -49,6 +59,7 @@ return (
           ))}
         </tbody>
       </table>
+      
       </div>
       
     </div>
