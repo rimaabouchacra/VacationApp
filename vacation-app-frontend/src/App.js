@@ -6,6 +6,7 @@ import Login from './pages/login_page';
 import Register from './pages/signup_page';
 import Homepage from './pages/home_page';
 import NewVacation from './pages/add_vacation';
+import EditedVacation from './pages/edit_vacation';
 function App() {
   return (
     <Router>
@@ -14,6 +15,7 @@ function App() {
         <Route path="/login" element={<Login/>} />
         <Route path="/signup" element={<Register/>} />
         <Route path="/addvacation" element={<NewVacation/>} />
+        <Route path="/editvacation" element={<EditedVacation/>} />
           {/* <Route path="/" element={<Homepage/>} />
           <Route path="/signup" element={<Register/>} />
           <Route path="/login" element={<Login/>} />
