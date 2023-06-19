@@ -1,3 +1,4 @@
+import AddVacation from '../../components/add_vacation';
 import Navbar from '../../components/navbar'
 import VacationPictures from '../../components/vacation_pictures';
 import VacationTable from '../../components/vacation_table';
@@ -10,6 +11,7 @@ const Homepage=()=>{
           <Navbar activePage="home"/>
           <Content/>
           <VacationPictures/>
+          <AddVacation/>
           <VacationTable/>
           {/* <Footer/> */}
         </div>

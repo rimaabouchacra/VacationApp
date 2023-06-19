@@ -33,13 +33,20 @@ const VacationPictures = () => {
   const indexOfFirstPicture = indexOfLastPicture - picturesPerPage;
   const currentPictures = vacationPictures.slice(indexOfFirstPicture, indexOfLastPicture);
 
-  const goToPreviousPage = () => {
+const goToPreviousPage = () => {
+  if (currentPage > 1) {
     setCurrentPage((prevPage) => prevPage - 1);
-  };
+  }
+};
 
-  const goToNextPage = () => {
+const goToNextPage = () => {
+  if (indexOfLastPicture < vacationPictures.length) {
     setCurrentPage((prevPage) => prevPage + 1);
-  };
+  }
+};
+
+
+
 
   return (
     <>
