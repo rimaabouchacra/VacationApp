@@ -1,0 +1,28 @@
+.picture-grid {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+
+.vacation-picture {
+    width: 100%;
+    height: auto;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 55.5rem;
+    margin-top: 1rem;
+   overflow: hidden;
+}
+
+.vacation-picture-container img:hover {
+    transform: scale(1.1);
+}
+.all-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}

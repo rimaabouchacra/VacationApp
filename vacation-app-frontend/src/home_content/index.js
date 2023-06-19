@@ -10,7 +10,7 @@ const Content = () => {
   return (
     <div>
       {/* <img className='headerr' src={header} alt="" /> */}
-      <img src={header} alt="" />
+      <img className='headerr' src={header} alt="" />
 
     </div>
   );
