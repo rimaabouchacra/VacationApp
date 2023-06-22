@@ -8,6 +8,7 @@ import Homepage from './pages/home_page';
 import NewVacation from './pages/add_vacation';
 import EditedVacation from './pages/edit_vacation';
 import AboutUsPage from './pages/about_us';
+import ContactUsPage from './pages/contact_us';
 function App() {
   return (
     <Router>
@@ -18,12 +19,8 @@ function App() {
         <Route path="/addvacation" element={<NewVacation/>} />
         <Route path="/editvacation" element={<EditedVacation/>} />
         <Route path="/aboutus" element={<AboutUsPage/>} />
-          {/* <Route path="/" element={<Homepage/>} />
-          <Route path="/signup" element={<Register/>} />
-          <Route path="/login" element={<Login/>} />
-          <Route path="/imagetest" element={<ImageTest/>} />
-          <Route path="/headingtest" element={<HeadingTest/>} />
-          <Route path="/linkbuttontest" element={<LinkButtonTest/>} /> */}
+        <Route path="/contactus" element={<ContactUsPage/>} />
+        
       </Routes>  
     </Router> 
   );

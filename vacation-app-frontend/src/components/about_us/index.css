@@ -32,7 +32,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 2rem;
+    margin: 2rem auto;
+    margin-left: 8rem auto;
+    margin-right: 8rem auto;
     
 }
 }

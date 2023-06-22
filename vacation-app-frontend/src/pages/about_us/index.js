@@ -5,7 +5,7 @@ import Navbar from "../../components/navbar";
 const AboutUsPage=()=>{
     return(
         <div>
-          <Navbar/>
+          <Navbar activePage="about"/>
           <AboutUs/>
           <Footer/>
         </div>

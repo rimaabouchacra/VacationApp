@@ -5,7 +5,6 @@ import VacationPictures from '../../components/vacation_pictures';
 import VacationTable from '../../components/vacation_table';
 import Content from '../../components/home_content';
 
-// import Footer from '../../components/footer';
 const Homepage=()=>{
     return(
         <div>
