@@ -18,8 +18,8 @@ const AddVacation = ({ onAddVacation }) => {
 
   const calculateDuration = () => {
     if (startDate && endDate) {
-      const durationInMs = new Date(endDate) - new Date(startDate);
-      const durationInDays = Math.floor(durationInMs / (1000 * 60 * 60 * 24));
+      const duration = new Date(endDate) - new Date(startDate);
+      const durationInDays = Math.floor(duration / (1000 * 60 * 60 * 24));
       setDuration(durationInDays.toString());
     } else {
       setDuration('');
@@ -47,7 +47,7 @@ const AddVacation = ({ onAddVacation }) => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    // Create a new vacation 
+    // Create a new vacation (this data should be retrieved from the database but as the backend is not working, this data is static for now )
     const newVacation = {
       description,
       startDate,

@@ -18,8 +18,8 @@ const EditVacation = ({ onAddVacation }) => {
 
   const calculateDuration = () => {
     if (startDate && endDate) {
-      const durationInMs = new Date(endDate) - new Date(startDate);
-      const durationInDays = Math.floor(durationInMs / (1000 * 60 * 60 * 24));
+      const duration = new Date(endDate) - new Date(startDate);
+      const durationInDays = Math.floor(duration / (1000 * 60 * 60 * 24));
       setDuration(durationInDays.toString());
     } else {
       setDuration('');
