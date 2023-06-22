@@ -3,7 +3,7 @@ import Footer from '../../components/footer';
 import Navbar from '../../components/navbar'
 import VacationPictures from '../../components/vacation_pictures';
 import VacationTable from '../../components/vacation_table';
-import Content from '../../components/home_content';
+import Content from '../../components/header_image';
 
 const Homepage=()=>{
     return(
