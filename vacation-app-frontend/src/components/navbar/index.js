@@ -12,8 +12,8 @@ const Navbar = ({ activePage }) => {
       </div>
       <div className='links'>
         <Link className={activePage === 'home' ? 'active' : ''} to='/'>Home</Link>
-        <Link className={activePage === 'about' ? 'active' : ''} to='/imagetest'>About Us</Link>
-        <Link className={activePage === 'contactus' ? 'active' : ''} to='/headingtest'>Contact Us</Link>
+        <Link className={activePage === 'about' ? 'active' : ''} to='/aboutus'>About Us</Link>
+        <Link className={activePage === 'contactus' ? 'active' : ''} to='/contactus'>Contact Us</Link>
       </div>
       <div className='links-register'>
         <Link className={activePage === 'login' ? 'active' : ''} to='/login'>Login</Link>

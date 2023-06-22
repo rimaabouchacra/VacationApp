@@ -1,0 +1,28 @@
+.about-us-container{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+.about-us-title{
+    color: var(--blue);
+    text-align: center;
+    margin-top: 3rem;
+    text-decoration: underline;
+}
+
+.about-us-row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 2rem;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    gap: 8rem;
+}
+.about-us-text{
+    font-size: 18px;
+    background-color: var(--blue);
+    color: white;
+    border-radius: 3px;
+    padding: 2rem;
+}
