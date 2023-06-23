@@ -46,11 +46,14 @@
 
 ### User Screens 
 
-| Login screen  |  Landing screen | AboutUs screen|
-| ![Landing](./readme/demo/registration.gif) | ![fsdaf](./readme/demo/homepage.gif.png) | ![fsdaf](./readme/demo/about-us.gif.png) |
-| AddVacation screen  | EditVacation Screen | ContactUs Screen |
-| ![Landing](./readme/demo/new-vacation.gif) | ![fsdaf](./readme/demo/edit-vacation.gif) | ![fsdaf](./readme/demo/contact-us.gif) |
-
+### User Screens (web)
+| Register screen  | Home screen 
+| ---| ---| 
+| ![fsdaf](./readme/demo/registration.gif) | ![fsdaf](./readme/demo/homepage.gif) |
+| AboutUs screen | ContactUs screen |
+![fsdaf](./readme/demo/about-us.gif) | ![fsdaf](./readme/demo/contact-us.gif) |
+| Add Vacation | Edit Vacation 
+| ![Landing](./readme/demo/new-vacation.gif) | ![fsdaf](./readme/demo/edit-vacation.gif)
 <br><br>
 
 <!-- Tech stack -->
