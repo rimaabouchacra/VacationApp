@@ -45,8 +45,7 @@
 
 ### User Screens (Mobile)
 
-| Login screen  |  Landing screen | AboutUs screen
-| ---| ---| ---|
+| Login screen  |  Landing screen | AboutUs screen|
 | ![Landing](./readme/demo/registration.gif) | ![fsdaf](./readme/demo/homepage.gif.png) | ![fsdaf](./readme/demo/about-us.gif.png) |
 | AddVacation screen  | EditVacation Screen | ContactUs Screen |
 | ![Landing](./readme/demo/new-vacation.gif) | ![fsdaf](./readme/demo/edit-vacation.gif) | ![fsdaf](./readme/demo/contact-us.gif) |
