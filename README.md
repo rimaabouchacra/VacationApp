@@ -42,7 +42,7 @@
 <!-- Implementation -->
 <img src="./readme/title4.svg"/>
 
-> Using the wireframes as a guide, Time Travel web app is implemented with the following features:
+> Using the wireframes as a guide, Time Travel web app is implemented with the following features
 
 ### User Screens 
 
