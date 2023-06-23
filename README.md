@@ -28,13 +28,14 @@
 > Time Travel is designed using wireframes, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
 ### Wireframes
-| Login screen  | Register screen |  Landing screen | About Us
+| Login screen  | Register screen |  Landing screen |
 | ---| ---| ---|
-| ![Landing](./readme/demo/Login-page.png) | ![fsdaf](./readme/demo/Signup-page.png) | ![fsdaf](./readme/demo/homepage.png) |  ![fsdaf](./readme/demo/about-us.png) |
+| ![Landing](./readme/demo/Login-page.png) | ![fsdaf](./readme/demo/Signup-page.png) | ![fsdaf](./readme/demo/homepage.png) |
 
-| Add Vacation  | Edit Vacation | Contact Us |
+| AboutUs screen  | AddVacation screen | ContactUs screen |
 | ---| ---| ---|
-| ![Landing](./readme/demo/new-vacation.png) | ![fsdaf](./readme/demo/edit-vacation.png) | ![fsdaf](./readme/demo/contact-us.png) |
+| ![Landing](./readme/demo/about-us.png) | ![fsdaf](./readme/demo/new-vacation.png) | ![fsdaf](./readme/demo/contact-us.png) |
+
 
 <br><br>
 
@@ -43,15 +44,12 @@
 
 > Using the wireframes as a guide, Time Travel web app is implemented with the following features:
 
+### User Screens 
 
-### User Screens (web)
-| Login screen  | Register screen 
-| ---| ---| 
-| ![fsdaf](./readme/demo/Login-page.png) | ![fsdaf](./readme/demo/Signup-page.png) |
-| Homepage screen | AboutUs screen |
-![fsdaf](./readme/demo/homepage.png) | ![fsdaf](./readme/demo/about-us.png) |
-| Add vacation | ContactUs Screen 
-| ![Landing](./readme/demo/new-vacation.png) | ![fsdaf](./readme/demo/contact-us.png)
+| Login screen  |  Landing screen | AboutUs screen|
+| ![Landing](./readme/demo/registration.gif) | ![fsdaf](./readme/demo/homepage.gif.png) | ![fsdaf](./readme/demo/about-us.gif.png) |
+| AddVacation screen  | EditVacation Screen | ContactUs Screen |
+| ![Landing](./readme/demo/new-vacation.gif) | ![fsdaf](./readme/demo/edit-vacation.gif) | ![fsdaf](./readme/demo/contact-us.gif) |
 
 <br><br>
 
