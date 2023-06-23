@@ -43,12 +43,15 @@
 
 > Using the wireframes as a guide, Time Travel web app is implemented with the following features:
 
-### User Screens (Mobile)
 
-| Login screen  |  Landing screen | AboutUs screen|
-| ![Landing](./readme/demo/registration.gif) | ![fsdaf](./readme/demo/homepage.gif.png) | ![fsdaf](./readme/demo/about-us.gif.png) |
-| AddVacation screen  | EditVacation Screen | ContactUs Screen |
-| ![Landing](./readme/demo/new-vacation.gif) | ![fsdaf](./readme/demo/edit-vacation.gif) | ![fsdaf](./readme/demo/contact-us.gif) |
+### User Screens (web)
+| Login screen  | Register screen 
+| ---| ---| 
+| ![fsdaf](./readme/demo/Login-page.png) | ![fsdaf](./readme/demo/Signup-page.png) |
+| Homepage screen | AboutUs screen |
+![fsdaf](./readme/demo/homepage.png) | ![fsdaf](./readme/demo/about-us.png) |
+| Add vacation | ContactUs Screen 
+| ![Landing](./readme/demo/new-vacation.png) | ![fsdaf](./readme/demo/contact-us.png)
 
 <br><br>
 
