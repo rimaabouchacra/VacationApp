@@ -63,7 +63,7 @@
 
 - This project uses ReactJS for the frontend. ReactJS is a popular JavaScript library for building user interfaces.
 - In terms of design, Travel Time follows a simple and modern design with a focus on usability and user experience. The application uses a minimalist color palette with a clean and easy-to-use interface.
-- Asp.net Mvc is used for the backend
+- Asp.net Mvc is used for the backend.
 
 <br><br>
 
